@@ -102,17 +102,3 @@ bash -c "$(curl -fsSL https://git.io/vpOep)"
 
 - 支持生成v2rayN(windows以及安卓) & Pepi(IOS) 客户端的
 vmess链接和qrcode图片，支持通过用sz将qr图片传到本机。
-
-## 特别说明
-
-也可以先查看下本仓库的[wiki](https://github.com/tracyone/v2ray.fun/wiki)
-
-本程序遵循 GPL v3协议发布，请Fork保留源项目地址，谢谢！
-
-V2ray : [https://v2ray.com](https://v2ray.com)
-
-原作者: [雨落无声](https://github.com/YLWS-4617)
-
-# Buy me a coffee
-
-![donation](https://cloud.githubusercontent.com/assets/4246425/24827592/553bc732-1c7f-11e7-8207-284cccbc2e5c.jpg)
